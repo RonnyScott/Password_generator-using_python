@@ -18,7 +18,9 @@ Choose whether to include special characters (y/n).
 
 The script will generate and display a secure password.
 
+
 **Requirements**
+
 
 Python 3.x
 
